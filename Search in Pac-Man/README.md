@@ -1,4 +1,4 @@
-## Project 1: Search in Pac-Man
+## Search in Pac-Man
 
 <p align="center">
 <img alt="Pacman Maze" src="https://camo.githubusercontent.com/8b6cabdba919a98f0d678391e68f5c3a83c88f5c51e74e3bd58d4b9f990db945/687474703a2f2f736f7a6f706f6c2e736f652e756373632e6564752f70312f696e737472756374696f6e732f7061636d616e2d6c617267652d7365617263682e676966" width="400px">
